@@ -1,0 +1,6 @@
+projectKey=Deployment_example_sonarqube
+serverUrl=http://localhost:7779
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:7779/dashboard?id=Deployment_example_sonarqube
+ceTaskId=fee266e1-a8d4-482b-81d7-5a4f64f74d48
+ceTaskUrl=http://localhost:7779/api/ce/task?id=fee266e1-a8d4-482b-81d7-5a4f64f74d48
